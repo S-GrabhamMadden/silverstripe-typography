@@ -27,12 +27,12 @@
     },
     "extra": {
         "expose": [
-          "images"
+            "images"
         ]
     },
-      "autoload": {
-          "psr-4": {
-              "Sunnysideup\\Typography\\": "src/"
-          }
-      }
+    "autoload": {
+        "psr-4": {
+            "Sunnysideup\\Typography\\": "src/"
+        }
+    }
 }
